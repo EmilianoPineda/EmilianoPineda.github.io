@@ -1,6 +1,8 @@
 #header{
     background-color: #61A4D4;
     height: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 body{
